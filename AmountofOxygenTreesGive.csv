@@ -1,0 +1,20 @@
+City,State,Trees(x1000),SE Trees(x1000),Oxygen Produced (t/year x 1000 ),SE Oxygen Produced (t/year x 1000 ),Net w/d Oxygen Produced (t/year x 1000 ),SE Net w/d Oxygen Produced (t/year x 1000 ),"Oxygen offset (Net no. of people
+(% pop))"," Oxygen offset Net w/d no. of
+people (% pop)","Oxygen Offset Net w/d no. of
+people ",Oxygen Offset Net w/d no. of people (% pop),Net No./ha,Per Person Offset Net No./ha,Per Person Offset Net No. of Trees,Per person offset Net w/d no. of tree
+"Atlanta,",GA,"9,415",749,112,8,86,12,"366,400",-88%,"280,300",-67%,29,22,26,34
+"Baltimore,",MD,"2,627",570,39,5,25,4,"127,700",-20%,"82,500",-13%,29,19,21,32
+"Boston,",MA,"1,183",109,25,2,19,2,"82,900",-14%,"60,400",-10%,26,19,14,20
+"Calgary,",Alberta,"11,889","2,777",52,7,45,6,"169,000",-19%,"147,700",-17%,33,28,70,81
+"Freehold,",NJ,48,6,1,0,1,0,"4,300",-39%,"2,800",-25%,25,16,11,17
+"Jersey City, ",NJ,136,22,2,0,2,0,"7,000",-3%,"5,100",-2%,16,11,19,27
+"Minneapolis,",MN,979,165,22,3,11,6,"70,200",-18%,"36,200",-9%,18,9,14,27
+"Moorestown,",NJ,583,53,9,1,7,1,"29,700",-160%,"22,300",-120%,28,21,20,26
+"Morgantown,",WV,658,79,7,1,5,1,"22,800",-85%,"17,800",-66%,29,22,29,37
+New York,NY,"5,212",719,102,11,55,12,"333,600",-4%,"180,500",-2%,20,11,16,29
+"Philadelphia,",PA,"2,113",211,39,4,29,4,"127,200",-8%,"93,000",-6%,24,17,17,23
+"San Francisco,",CA,668,98,12,2,11,1,"40,200",-5%,"36,900",-5%,28,26,17,18
+"Syracuse,",NY,876,119,13,1,11,1,"42,800",-29%,"37,200",-25%,29,25,20,24
+"Toronto,",Ontario,"7,542",889,98,10,76,10,"318,300",-13%,"246,500",-10%,25,19,24,31
+"Washington,",DC,"1,928",224,39,4,31,3,"127,400",-22%,"101,400",-18%,28,22,15,19
+"Woodbridge,",NJ,986,97,13,1,10,1,"43,900",-44%,"32,000",-32%,25,18,22,31
